@@ -56,14 +56,7 @@ class TextScramble {
     }}
   
   const phrases = [
-    'Demo',  
-    'Heroku',
-    'Cloud Computing',
-    'D18PM01',
-    'Duong Le Phuoc Trung',
-    'Nguyen Ngoc Minh',
-    'Dang Ngan Hao',
-    'Thanks for watching'
+    'Hiiiiiiiiiiiiiiiiii',
   ];
   
   
